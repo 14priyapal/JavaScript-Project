@@ -1,1 +1,1 @@
-# JavaScript-Project
+# JavaScript-TicTac-Project
